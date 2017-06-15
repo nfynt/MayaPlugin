@@ -1,2 +1,2 @@
 # MayaPlugin
-Attempt for creating simple plugin for maya
+Attempt for creating simple exporter plugin for maya
